@@ -5,7 +5,8 @@ Evoluir o projeto monolítico existente para uma arquitetura de microsserviços,
 Esta etapa demonstra a separação de responsabilidades, a comunicação entre serviços e a modularização do sistema.
 
 🗂 Estrutura do Repositório
-Projeto/ ├── wallet/ # Aplicação principal (porta 8080) ├── historico-service/ # Microsserviço de histórico (porta 8081) └── pdfs/ # Relatórios e documentos do projeto
+Projeto/ ├── wallet/ # Aplicação principal (porta 8080) 
+├── historico-service/ # Microsserviço de histórico (porta 8081) 
 
 ⚙️ Serviços
 Wallet Service
